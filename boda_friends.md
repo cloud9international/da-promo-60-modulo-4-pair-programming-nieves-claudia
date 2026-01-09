@@ -7,7 +7,7 @@ tips a analizar en el csv!
 
 
 **1. Análisis de Sentimiento del Guion:** 
-
+ cambio por mapa 
 
 
 quién fue el personaje más ansioso vs. el más emocionado durante la boda (Chandler vs. Monica).
@@ -26,25 +26,7 @@ Visualización: Un gráfico de líneas que muestre la "estabilidad emocional" de
 
 
 
-**4. Lexicometría de las Votos Matrimoniales**
-
-Si el CSV tiene los diálogos completos, puedes comparar los votos de las tres parejas principales:
-
-
-
-Monica y Chandler: ¿Usan un lenguaje más realista o sarcástico?
-
-
-
-Phoebe y Mike: ¿Qué palabras "raras" o únicas aparecen en su ceremonia?
-
-
-
-Ross y Emily / Rachel: Analizar el famoso error del nombre ("I, Ross, take thee Rachel...") y ver si hay picos de "tensión" en el sentimiento del diálogo justo antes del error.
-
-
-
-**5. Roles en las Bodas**
+**5. Roles en las Bodas** NIEVES
 
 Filtra por los términos "Best man", "Maid of honor" o "Bridesmaid".
 
@@ -88,11 +70,11 @@ El factor Joey: Analizar cuántas de sus líneas de diálogo en episodios de bod
 
 
 
-**9-"El efecto ""Ex"""**,"""Janice"", ""Richard"", ""Emily""",Cuántas veces se menciona a un ex durante los preparativos.
+**9-"El efecto ""Ex"""**,"""Janice"", ""Richard"", ""Emily""",Cuántas veces se menciona a un ex durante los preparativos. CLAU
 
 
 
-**10. Ropa y Vestuario,**
+**10. Ropa y Vestuario,** CLAU
 
 
 
@@ -104,7 +86,7 @@ El factor Joey: Analizar cuántas de sus líneas de diálogo en episodios de bod
 
 
 
-1\. El **"Wedding Word Count"** (Volumen de Diálogo)
+1\. El **"Wedding Word Count"** (Volumen de Diálogo) NIEVES
 
 El Número: Total de palabras dichas exclusivamente en episodios de boda.
 
@@ -114,35 +96,12 @@ Por qué es curioso: Las bodas suelen ser episodios dobles (finales de temporada
 
 
 
-**2. El Ratio "Lágrimas vs. Risas" (Sentiment Score)**
+**4. El Contador de "Menciones al Compromiso"** NIEVES
 
-El Número: Un índice de 0 a 10 de "Emotividad".
-
-
-
-Cómo sacarlo: Filtra palabras de "llanto/emoción" (cry, moved, happy, love, beautiful) vs. palabras de "comedia/caos" (joke, laugh, disaster, stupid).
+El Número: Total de veces que se pronuncian las palabras "Wedding", big number SOLO EN CONTEXTO BODA
 
 
-
-Big Number: "La boda de Phoebe es un 40% más emotiva que la de Ross en Londres".
-
+5. CLAUDIA: BUSCAR EN RESUMEN!!!
 
 
-**3. El "Índice de Protagonismo del Invitado"**
-
-El Número: Porcentaje de líneas dichas por personajes que no son los 6 principales.
-
-
-
-Qué revela: En las bodas, el "Big Number" suele mostrar que los invitados (padres, ex, estrellas invitadas) acaparan hasta un 30-35% del diálogo, quitándole espacio a los protagonistas. Es el momento donde el universo de Friends se expande.
-
-
-
-**4. El Contador de "Menciones al Compromiso"**
-
-El Número: Total de veces que se pronuncian las palabras "Wedding", "Marriage" y "Vows" en toda la serie.
-
-
-
-Dato de impacto: "Se menciona la palabra 'Boda' X veces más en la temporada 7 (Monica) que en la temporada 1".
-
+recuento de palabras relacionadas con matrimonio: "Marriage" y "Vows" en toda la serie.
