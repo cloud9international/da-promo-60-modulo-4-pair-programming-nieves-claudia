@@ -6,19 +6,16 @@ tips a analizar en el csv!
 
 
 
-**1. Análisis de Sentimiento del Guion:** 
+V    **1. Análisis de Sentimiento del Guion:** NIEVES
  cambio por mapa 
 
 
-quién fue el personaje más ansioso vs. el más emocionado durante la boda (Chandler vs. Monica).
+
+V    **2. ¿Suben los ratings cuando hay un evento nupcial o el público se cansó de la "obsesión" de Ross con el matrimonio?** El "Efecto Boda" en los Ratings: Un gráfico de líneas que compare la audiencia de los episodios de la boda frente al promedio de la Temporada 7. NIEVES
 
 
 
-**2. ¿Suben los ratings cuando hay un evento nupcial o el público se cansó de la "obsesión" de Ross con el matrimonio?** El "Efecto Boda" en los Ratings: Un gráfico de líneas que compare la audiencia de los episodios de la boda frente al promedio de la Temporada 7.
-
-
-
-3\. **El Contador de Bodas de Ross (The Divorce Force)**
+V 3\. **El Contador de Bodas de Ross (The Divorce Force)** NIEVES
 
 crear un filtro específico para Ross Geller y rastrear en el guion palabras clave como "Annulment", "Divorce", o "Alimony".
 
@@ -26,17 +23,14 @@ Visualización: Un gráfico de líneas que muestre la "estabilidad emocional" de
 
 
 
-**5. Roles en las Bodas** NIEVES
+V  **5. Roles en las Bodas** NIEVES
 
 Filtra por los términos "Best man", "Maid of honor" o "Bridesmaid".
-
-
-
 Dinámica de grupo: ¿Quién fue más veces el apoyo de quién? Esto revela quiénes eran los "mejores amigos" dentro del grupo de seis en momentos críticos.
 
 
 
-**6. El "Análisis de Interrupciones"**
+V  **6. El "Análisis de Interrupciones"** CLAUDIA
 
 Las bodas en Friends nunca salen bien a la primera. Podrías filtrar los diálogos de los episodios de boda buscando signos de puntuación de interrupción (-- o ...) o palabras clave de pánico.
 
@@ -50,7 +44,7 @@ Dato curioso: Podrías cuantificar el "nivel de caos" midiendo cuántas líneas 
 
 
 
-**7. El Mapa Gastronómico y de Bebidas**
+v **7. El Mapa Gastronómico y de Bebidas** CLAUDIA
 
 Las bodas suelen implicar comida y alcohol. Puedes filtrar por términos como "Champagne", "Cake", "Appetizers", o "Chicken or Fish".
 
